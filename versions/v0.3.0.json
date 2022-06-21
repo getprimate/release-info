@@ -1,0 +1,41 @@
+{
+    "version": "0.3.0",
+    "publishedAt": 1655785734,
+    "author": "Ajay Sreedhar <ajaysreedhar05@gmail.com>",
+    "downloadLink": "",
+    "adminAPIList": ["=v0.10.0"],
+    "releaseNotes": {
+        "features": [
+            {
+                "primaryText":"New views to manage certificates and upstreams.",
+                "description": []
+            }
+        ],
+        "bugfixes": [
+            {
+                "primaryText": "Fixed settings reload issues.",
+                "description": []
+                "websiteLink": "https://github.com/getprimate/primate/issues/10"
+            }
+        ],
+        "upgrades": [
+            {
+                "primaryText": "Support for Kong Admin API v0.10.x",
+                "websiteLink": "https://github.com/getprimate/primate/issues/14"
+                "description": []
+            },
+            {
+                "primaryText":"Settings option moved to File menu",
+                "description": []
+            }
+        ]
+    },
+    "contributors": [
+        {
+            "username": "getprimate",
+            "fullname": "Primate Org",
+            "profileLink": "https://github.com/getprimate",
+            "description": "Project organization"
+        }
+    ]
+}
