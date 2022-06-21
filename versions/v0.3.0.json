@@ -14,14 +14,14 @@
         "bugfixes": [
             {
                 "primaryText": "Fixed settings reload issues.",
+                "websiteLink": "https://github.com/getprimate/primate/issues/10",
                 "description": []
-                "websiteLink": "https://github.com/getprimate/primate/issues/10"
             }
         ],
         "upgrades": [
             {
                 "primaryText": "Support for Kong Admin API v0.10.x",
-                "websiteLink": "https://github.com/getprimate/primate/issues/14"
+                "websiteLink": "https://github.com/getprimate/primate/issues/14",
                 "description": []
             },
             {
