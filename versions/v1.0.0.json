@@ -7,25 +7,24 @@
     "releaseNotes": {
         "features": [
             {
-                "primaryText":"Stores multiple connections in history.",
-                "description": []
+                "primaryText": "Supports Kong Admin API v2.6.x and v2.7.x",
+                "description": [""]
             },
             {
-                "primaryText": "Supports UI customizations with themes.",
-                "description": ["Themes can be placed in <i>/&lt;app-data&gt;/Primate/User-Themes</i> directory"]
-            }
-        ],
-        "bugfixes": [
+                "primaryText":"Stores multiple connections",
+                "description": ["Logs the configuration whenever a new connection is added."]
+            },
             {
-                "primaryText": "Fixed host configuration issue in settings view.",
-                "description": []
+                "primaryText": "Supports UI customizations with themes",
+                "description": ["Themes can be placed in app-data/Primate/User-Themes directory."]
+            },
+            {
+                "primaryText": "See HTTP network calls",
+                "description": ["Includes an Activity Monitor to log all HTTP nework calls made from the app, accessible from the status bar."]
             }
         ],
+        "bugfixes": [],
         "upgrades": [
-            {
-                "primaryText": "Supports Kong Admin API v2.7.x",
-                "description": []
-            },
             {
                 "primaryText":"Electron to version 19.x.x",
                 "description": []
