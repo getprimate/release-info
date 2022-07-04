@@ -2,8 +2,8 @@
     "version": "1.0.0",
     "publishedAt": 1655785734,
     "author": "Ajay Sreedhar <ajaysreedhar05@gmail.com>",
-    "downloadLink": "",
-    "adminAPIList": ["v2.7.x"],
+    "downloadLink": "https://github.com/getprimate/primate/releases/tag/v1.0.0",
+    "adminAPIList": ["v2.7.x", "v2.6.x"],
     "releaseNotes": {
         "features": [
             {
@@ -32,12 +32,5 @@
             }
         ]
     },
-    "contributors": [
-        {
-            "username": "getprimate",
-            "fullname": "Primate Org",
-            "profileLink": "https://github.com/getprimate",
-            "description": "Project organization"
-        }
-    ]
+    "contributors": []
 }
