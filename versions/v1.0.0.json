@@ -3,7 +3,7 @@
     "publishedAt": 1655785734,
     "author": "Ajay Sreedhar <ajaysreedhar05@gmail.com>",
     "downloadLink": "https://github.com/getprimate/primate/releases/tag/v1.0.0",
-    "adminAPIList": ["v2.7.x", "v2.6.x"],
+    "adminAPIList": ["2.7.x", "2.6.x"],
     "releaseNotes": {
         "features": [
             {
