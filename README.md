@@ -1,4 +1,4 @@
-# Primate Release Information
+# Release Information
 
 > Contains release information for the Primate application to access.
 
