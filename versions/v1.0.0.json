@@ -24,7 +24,7 @@
                     "Includes 3 in-built colour schemes by default.",
                     "Custom themes can be placed in app-data/Primate/User-Themes directory."
                 ]
-            },
+            }
         ],
         "bugfixes": [],
         "upgrades": [
