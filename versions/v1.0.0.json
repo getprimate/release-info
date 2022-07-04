@@ -27,7 +27,7 @@
             }
         ],
         "bugfixes": [
-            {"primaryText": "Fixed multiple windows on macOS"}
+            {"primaryText": "Fixed settings reload issue on macOS"}
         ],
         "upgrades": [
             {
