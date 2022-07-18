@@ -3,11 +3,11 @@
     "publishedAt": 1655785734,
     "author": "Ajay Sreedhar <ajaysreedhar05@gmail.com>",
     "downloadLink": "https://github.com/getprimate/primate/releases/tag/v1.0.0",
-    "adminAPIList": ["2.7.x", "2.6.x"],
+    "adminAPIList": ["2.7.x", "2.8.x"],
     "releaseNotes": {
         "features": [
             {
-                "primaryText": "Supports Kong Admin API v2.6.x and v2.7.x",
+                "primaryText": "Supports Kong Admin API v2.7.x and v2.8.x",
                 "description": []
             },
             {
