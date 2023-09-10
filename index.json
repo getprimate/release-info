@@ -1,11 +1,5 @@
 {
     "latest" :{
-        "stable": "1.0.0"
-    },
-    "contributors": [{
-        "username": "ajaysreedhar",
-        "fullname": "Ajay Sreedhar",
-        "profileLink": "https://github.com/ajaysreedhar",
-        "description": "Project Maintainer"
-    }]
+        "stable": "1.1.0"
+    }
 }

@@ -1,0 +1,22 @@
+{
+    "version": "1.1.0",
+    "publishedAt": 1694323695,
+    "author": "Ajay Sreedhar <ajaysreedhar05@gmail.com>",
+    "downloadLink": "https://github.com/getprimate/primate/releases/tag/v1.1.0",
+    "adminAPIList": ["2.7.x", "2.8.x"],
+    "releaseNotes": {
+        "features": [],
+        "bugfixes": [
+            {
+	        "primaryText": "Fixed basic user authentication in connection setup.", 
+                "description": []
+	    }
+	],
+        "upgrades": [
+	    {
+                "primaryText": "Support for adding paths in connection setup.",
+                "description": []
+            }
+        ]
+    }
+}
